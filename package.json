@@ -1,0 +1,18 @@
+{
+  "name": "task-manager-backend",
+  "version": "1.0.0",
+  "description": "Task Manager API\r A simple REST API for managing tasks, built with Node.js and Express. Tasks are stored in a local JSON file (tasks.json).\r Setup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
